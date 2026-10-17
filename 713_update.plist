@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://apple.com">
+<plist version="1.0">
+<dict>
+	<key>AssetType</key>
+	<string>com.apple.accessibility.SoftwareUpdateAsset</string>
+	<key>Assets</key>
+	<array>
+		<dict>
+			<key>Build</key>
+			<string>11D257</string>
+			<key>OSVersion</key>
+			<string>7.1.3</string>
+			<key>PrerequisiteBuild</key>
+			<string>11D257</string>
+			<key>PrerequisiteOSVersion</key>
+			<string>7.1.3</string>
+			<key>SupportedDevices</key>
+			<array>
+				<string>iPhone3,1</string>
+			</array>
+			<key>__BaseURL</key>
+			<string>https://github.io</string>
+			<key>__RelativePath</key>
+			<string>iPhone3,1_7.1.3_11D257.ipsw</string>
+		</dict>
+	</array>
+</dict>
+</plist>
